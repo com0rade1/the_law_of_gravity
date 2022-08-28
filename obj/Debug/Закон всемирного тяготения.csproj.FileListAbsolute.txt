@@ -1,0 +1,10 @@
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\bin\Debug\Закон всемирного тяготения.exe.config
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\bin\Debug\Закон всемирного тяготения.exe
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\bin\Debug\Закон всемирного тяготения.pdb
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\obj\Debug\Закон всемирного тяготения.csprojAssemblyReference.cache
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\obj\Debug\Закон_всемирного_тяготения.Form1.resources
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\obj\Debug\Закон_всемирного_тяготения.Properties.Resources.resources
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\obj\Debug\Закон всемирного тяготения.csproj.GenerateResource.cache
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\obj\Debug\Закон всемирного тяготения.csproj.CoreCompileInputs.cache
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\obj\Debug\Закон всемирного тяготения.exe
+C:\Users\prota\Desktop\Моделирование\Закон всемирного тяготения\obj\Debug\Закон всемирного тяготения.pdb
